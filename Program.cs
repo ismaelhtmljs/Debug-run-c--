@@ -25,7 +25,7 @@ class Program
                 |  |\  \----.|  `--'  | |  |\   |    |  `----.  |_|   |_|  
                 | _| `._____| \______/  |__| \__|     \______|     
 
-                Version : Beta 1.0  By : Ismaelxd74    Github : ismaelhtmljs 
+                Version : Beta 3.1  By : Ismaelxd74    Github : ismaelhtmljs 
                     [-]puedes entrar a ver el repositorio en mi github
                             [*]https://github.com/ismaelhtmljs        
             ");
